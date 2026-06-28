@@ -1,5 +1,5 @@
 {
-  "version": "1.9.7",
-  "url": "https://github.com/silentsupt/rokbot-libs/releases/download/v1.9.7/ROKBOTV1.9.7.exe",
-  "notes": "ปรับปรุงภายใน + แก้ระบบอัปเดต"
+  "version": "1.9.8",
+  "url": "https://github.com/silentsupt/rokbot-libs/releases/download/v1.9.8/ROKBOTV1.9.8.exe",
+  "notes": "ปรับแก้ระบบ IP/Port (ใส่แค่ port ได้)"
 }
