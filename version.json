@@ -1,5 +1,5 @@
 {
-  "version": "1.9.99",
-  "url": "https://github.com/silentsupt/rokbot-libs/releases/download/v1.9.99/ROKBOTV1.9.99.exe",
-  "notes": "ทดสอบระบบ"
+  "version": "1.9.991",
+  "url": "https://github.com/silentsupt/rokbot-libs/releases/download/v1.9.991/ROKBOTV1.9.991.exe",
+  "notes": "แก้ปัญหา DLL ตอนรีสตาร์ท: รอ AV ปลดล็อกไฟล์ก่อนเปิดเวอร์ชันใหม่"
 }
