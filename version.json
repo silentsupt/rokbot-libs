@@ -1,6 +1,6 @@
 {
-  "version": "2.0.1",
-  "url": "https://github.com/silentsupt/rokbot-libs/releases/download/v2.0.1/ROKBOTV2.0.1.exe",
-  "sha256": "8b9991dee00c6eaf04c5cc9574a9f266c304ef923ab510e598cd3091936610c5",
-  "notes": "แก้ระบบ Update ให้ทนต่อ AV (กัน python311.dll หาย) + relaunch อัตโนมัติ"
+  "version": "2.0.2",
+  "url": "https://github.com/silentsupt/rokbot-libs/releases/download/v2.0.2/ROKBOTV2.0.2.exe",
+  "sha256": "e4de743ad0ff619c39bac646cfb4125085f5e80094448dfd1e259a8e41e54547",
+  "notes": "ปรับระบบเก็บกล่อง vip รายวันใหม่ ให้ทนตอนเปิดหลายจอแล้วแลค แก้บั๊กบางทีเก็บได้แค่กล่องเดียว"
 }
