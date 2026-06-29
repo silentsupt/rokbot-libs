@@ -1,6 +1,6 @@
 {
-  "version": "2.0.3",
-  "url": "https://github.com/silentsupt/rokbot-libs/releases/download/v2.0.3/ROKBOTV2.0.3.exe",
-  "sha256": "6660b7e076cc0ac94ef91355462c157417fd62bbd85e1c79987ad8caf24ac565",
-  "notes": "แก้หน้าต่างอัปเดตที่ยืด ทำ ui ใหม่ให้สวยขึ้น แก้ python311.dll หายตอนรีสตาร์ท เพิ่มโหมดใช้ cpu ตอนเปิดหลายจอ"
+  "version": "2.0.4",
+  "url": "https://github.com/silentsupt/rokbot-libs/releases/download/v2.0.4/ROKBOTV2.0.4.exe",
+  "sha256": "fba2872123d55cf29b5415d4b4469b2e6fd8fa62fd71591e868e84dee83f7d46",
+  "notes": "แก้ส่วนล่างของหน้าต่างที่โดนตัด ปุ่มล่างกลับมาครบ เพิ่มเช็คช่องกรอกจำนวนทัพกันแอปแครช"
 }
