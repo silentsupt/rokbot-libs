@@ -1,6 +1,6 @@
 {
-  "version": "2.0.2",
-  "url": "https://github.com/silentsupt/rokbot-libs/releases/download/v2.0.2/ROKBOTV2.0.2.exe",
-  "sha256": "e4de743ad0ff619c39bac646cfb4125085f5e80094448dfd1e259a8e41e54547",
-  "notes": "ปรับระบบเก็บกล่อง vip รายวันใหม่ ให้ทนตอนเปิดหลายจอแล้วแลค แก้บั๊กบางทีเก็บได้แค่กล่องเดียว"
+  "version": "2.0.3",
+  "url": "https://github.com/silentsupt/rokbot-libs/releases/download/v2.0.3/ROKBOTV2.0.3.exe",
+  "sha256": "6660b7e076cc0ac94ef91355462c157417fd62bbd85e1c79987ad8caf24ac565",
+  "notes": "แก้หน้าต่างอัปเดตที่ยืด ทำ ui ใหม่ให้สวยขึ้น แก้ python311.dll หายตอนรีสตาร์ท เพิ่มโหมดใช้ cpu ตอนเปิดหลายจอ"
 }
