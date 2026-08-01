@@ -1,6 +1,6 @@
 {
-  "version": "2.0.4",
-  "url": "https://github.com/silentsupt/rokbot-libs/releases/download/v2.0.4/ROKBOTV2.0.4.exe",
-  "sha256": "fba2872123d55cf29b5415d4b4469b2e6fd8fa62fd71591e868e84dee83f7d46",
-  "notes": "แก้ส่วนล่างของหน้าต่างที่โดนตัด ปุ่มล่างกลับมาครบ เพิ่มเช็คช่องกรอกจำนวนทัพกันแอปแครช"
+  "version": "2.0.5",
+  "url": "https://github.com/silentsupt/rokbot-libs/releases/download/v2.0.5/ROKBOTV2.0.5.exe",
+  "sha256": "3c58fb4743c2c8d7c07593e29e1e42c9f17347dd37157413445ae9d90e1378a0",
+  "notes": "แก้ปัญหาเปิดโปรแกรมแล้วเด้ง error ตั้งแต่หน้าแรก ต่อเซิร์ฟเวอร์ยืนยันคีย์ไม่ได้ ตอนนี้เข้าใช้งานได้ปกติแล้ว"
 }
